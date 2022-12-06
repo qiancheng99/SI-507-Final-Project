@@ -1,0 +1,1977 @@
+{
+    "BHM": [
+        "ALABAMA",
+        "Birmingham",
+        "Birmingham\u2013Shuttlesworth International Airport"
+    ],
+    "DHN": [
+        "ALABAMA",
+        "Dothan",
+        "Dothan Regional Airport"
+    ],
+    "HSV": [
+        "ALABAMA",
+        "Huntsville",
+        "Huntsville International Airport (Carl T. Jones Field)"
+    ],
+    "MOB": [
+        "ALABAMA",
+        "Mobile",
+        "Mobile Regional Airport"
+    ],
+    "MGM": [
+        "ALABAMA",
+        "Montgomery",
+        "Montgomery Regional Airport (Dannelly Field)"
+    ],
+    "MRI": [
+        "ALASKA",
+        "Anchorage",
+        "Merrill Field"
+    ],
+    "ANC": [
+        "ALASKA",
+        "Anchorage",
+        "Ted Stevens Anchorage International Airport"
+    ],
+    "ANI": [
+        "ALASKA",
+        "Aniak",
+        "Aniak Airport"
+    ],
+    "BET": [
+        "ALASKA",
+        "Bethel",
+        "Bethel Airport (also see Bethel Seaplane Base)"
+    ],
+    "CDV": [
+        "ALASKA",
+        "Cordova",
+        "Merle K. (Mudhole) Smith Airport"
+    ],
+    "SCC": [
+        "ALASKA",
+        "Deadhorse",
+        "Deadhorse Airport (Prudhoe Bay Airport)"
+    ],
+    "DLG": [
+        "ALASKA",
+        "Dillingham",
+        "Dillingham Airport"
+    ],
+    "FAI": [
+        "ALASKA",
+        "Fairbanks",
+        "Fairbanks International Airport"
+    ],
+    "GST": [
+        "ALASKA",
+        "Gustavus",
+        "Gustavus Airport"
+    ],
+    "HOM": [
+        "ALASKA",
+        "Homer",
+        "Homer Airport"
+    ],
+    "JNU": [
+        "ALASKA",
+        "Juneau",
+        "Juneau International Airport"
+    ],
+    "ENA": [
+        "ALASKA",
+        "Kenai",
+        "Kenai Municipal Airport"
+    ],
+    "KTN": [
+        "ALASKA",
+        "Ketchikan",
+        "Ketchikan International Airport"
+    ],
+    "AKN": [
+        "ALASKA",
+        "King Salmon",
+        "King Salmon Airport"
+    ],
+    "KLW": [
+        "ALASKA",
+        "Klawock",
+        "Klawock Airport (also see Klawock Seaplane Base)"
+    ],
+    "ADQ": [
+        "ALASKA",
+        "Kodiak",
+        "Kodiak Airport (Benny Benson State Airport)"
+    ],
+    "OTZ": [
+        "ALASKA",
+        "Kotzebue",
+        "Ralph Wien Memorial Airport"
+    ],
+    "OME": [
+        "ALASKA",
+        "Nome",
+        "Nome Airport"
+    ],
+    "PSG": [
+        "ALASKA",
+        "Petersburg",
+        "Petersburg James A. Johnson Airport"
+    ],
+    "KSM": [
+        "ALASKA",
+        "St. Mary's",
+        "St. Mary's Airport"
+    ],
+    "SIT": [
+        "ALASKA",
+        "Sitka",
+        "Sitka Rocky Gutierrez Airport"
+    ],
+    "UNK": [
+        "ALASKA",
+        "Unalakleet",
+        "Unalakleet Airport"
+    ],
+    "DUT": [
+        "ALASKA",
+        "Unalaska",
+        "Unalaska Airport (Tom Madsen/Dutch Harbor Airport)"
+    ],
+    "BRW": [
+        "ALASKA",
+        "Utqia\u0121vik (Barrow)",
+        "Wiley Post\u2013Will Rogers Memorial Airport"
+    ],
+    "VDZ": [
+        "ALASKA",
+        "Valdez",
+        "Valdez Airport (Pioneer Field)"
+    ],
+    "WRG": [
+        "ALASKA",
+        "Wrangell",
+        "Wrangell Airport (also see Wrangell Seaplane Base)"
+    ],
+    "YAK": [
+        "ALASKA",
+        "Yakutat",
+        "Yakutat Airport (also see Yakutat Seaplane Base)"
+    ],
+    "IFP": [
+        "ARIZONA",
+        "Bullhead City",
+        "Laughlin/Bullhead International Airport"
+    ],
+    "FLG": [
+        "ARIZONA",
+        "Flagstaff",
+        "Flagstaff Pulliam Airport"
+    ],
+    "GCN": [
+        "ARIZONA",
+        "Grand Canyon",
+        "Grand Canyon National Park Airport"
+    ],
+    "AZA": [
+        "ARIZONA",
+        "Mesa",
+        "Phoenix\u2013Mesa Gateway Airport (formerly Williams AFB)"
+    ],
+    "PGA": [
+        "ARIZONA",
+        "Page",
+        "Page Municipal Airport"
+    ],
+    "PHX": [
+        "ARIZONA",
+        "Phoenix",
+        "Phoenix Sky Harbor International Airport"
+    ],
+    "PRC": [
+        "ARIZONA",
+        "Prescott",
+        "Prescott Municipal Airport (Ernest A. Love Field)"
+    ],
+    "TUS": [
+        "ARIZONA",
+        "Tucson",
+        "Tucson International Airport"
+    ],
+    "YUM": [
+        "ARIZONA",
+        "Yuma",
+        "Yuma International Airport / MCAS Yuma"
+    ],
+    "XNA": [
+        "ARKANSAS",
+        "Fayetteville",
+        "Northwest Arkansas National Airport"
+    ],
+    "FSM": [
+        "ARKANSAS",
+        "Fort Smith",
+        "Fort Smith Regional Airport"
+    ],
+    "LIT": [
+        "ARKANSAS",
+        "Little Rock",
+        "Bill and Hillary Clinton National Airport (Adams Field) (was Little Rock National)"
+    ],
+    "TXK": [
+        "ARKANSAS",
+        "Texarkana",
+        "Texarkana Regional Airport (Webb Field)"
+    ],
+    "ACV": [
+        "CALIFORNIA",
+        "Arcata/Eureka",
+        "California Redwood Coast\u2013Humboldt County Airport"
+    ],
+    "BFL": [
+        "CALIFORNIA",
+        "Bakersfield",
+        "Meadows Field"
+    ],
+    "BUR": [
+        "CALIFORNIA",
+        "Burbank",
+        "Hollywood Burbank Airport (was Bob Hope Airport)"
+    ],
+    "CCR": [
+        "CALIFORNIA",
+        "Concord",
+        "Buchanan Field Airport"
+    ],
+    "FAT": [
+        "CALIFORNIA",
+        "Fresno",
+        "Fresno Yosemite International Airport"
+    ],
+    "LGB": [
+        "CALIFORNIA",
+        "Long Beach",
+        "Long Beach Airport (Daugherty Field)"
+    ],
+    "LAX": [
+        "CALIFORNIA",
+        "Los Angeles",
+        "Los Angeles International Airport"
+    ],
+    "MMH": [
+        "CALIFORNIA",
+        "Mammoth Lakes",
+        "Mammoth Yosemite Airport"
+    ],
+    "MRY": [
+        "CALIFORNIA",
+        "Monterey",
+        "Monterey Regional Airport (was Monterey Peninsula Airport)"
+    ],
+    "OAK": [
+        "CALIFORNIA",
+        "Oakland",
+        "Oakland International Airport"
+    ],
+    "ONT": [
+        "CALIFORNIA",
+        "Ontario",
+        "Ontario International Airport"
+    ],
+    "SNA": [
+        "CALIFORNIA",
+        "Orange County",
+        "John Wayne Airport (was Orange County Airport)"
+    ],
+    "PSP": [
+        "CALIFORNIA",
+        "Palm Springs",
+        "Palm Springs International Airport"
+    ],
+    "RDD": [
+        "CALIFORNIA",
+        "Redding",
+        "Redding Municipal Airport"
+    ],
+    "SMF": [
+        "CALIFORNIA",
+        "Sacramento",
+        "Sacramento International Airport"
+    ],
+    "SAN": [
+        "CALIFORNIA",
+        "San Diego",
+        "San Diego International Airport (Lindbergh Field)"
+    ],
+    "SFO": [
+        "CALIFORNIA",
+        "San Francisco",
+        "San Francisco International Airport"
+    ],
+    "SJC": [
+        "CALIFORNIA",
+        "San Jose",
+        "Norman Y. Mineta San Jos\u00e9 International Airport"
+    ],
+    "SBP": [
+        "CALIFORNIA",
+        "San Luis Obispo",
+        "San Luis Obispo County Regional Airport (McChesney Field)"
+    ],
+    "SBA": [
+        "CALIFORNIA",
+        "Santa Barbara",
+        "Santa Barbara Municipal Airport (Santa Barbara Airport)"
+    ],
+    "SMX": [
+        "CALIFORNIA",
+        "Santa Maria",
+        "Santa Maria Public Airport (Capt G. Allan Hancock Field)"
+    ],
+    "STS": [
+        "CALIFORNIA",
+        "Santa Rosa",
+        "Charles M. Schulz\u2013Sonoma County Airport"
+    ],
+    "SCK": [
+        "CALIFORNIA",
+        "Stockton",
+        "Stockton Metropolitan Airport"
+    ],
+    "ASE": [
+        "COLORADO",
+        "Aspen",
+        "Aspen/Pitkin County Airport (Sardy Field)"
+    ],
+    "COS": [
+        "COLORADO",
+        "Colorado Springs",
+        "City of Colorado Springs Municipal Airport"
+    ],
+    "DEN": [
+        "COLORADO",
+        "Denver",
+        "Denver International Airport"
+    ],
+    "DRO": [
+        "COLORADO",
+        "Durango",
+        "Durango\u2013La Plata County Airport"
+    ],
+    "EGE": [
+        "COLORADO",
+        "Eagle/Vail",
+        "Eagle County Regional Airport"
+    ],
+    "GJT": [
+        "COLORADO",
+        "Grand Junction",
+        "Grand Junction Regional Airport (Walker Field)"
+    ],
+    "GUC": [
+        "COLORADO",
+        "Gunnison",
+        "Gunnison\u2013Crested Butte Regional Airport"
+    ],
+    "HDN": [
+        "COLORADO",
+        "Hayden",
+        "Yampa Valley Airport (Yampa Valley Regional)"
+    ],
+    "MTJ": [
+        "COLORADO",
+        "Montrose",
+        "Montrose Regional Airport"
+    ],
+    "PUB": [
+        "COLORADO",
+        "Pueblo",
+        "Pueblo Memorial Airport"
+    ],
+    "BDL": [
+        "CONNECTICUT",
+        "Hartford",
+        "Bradley International Airport"
+    ],
+    "HVN": [
+        "CONNECTICUT",
+        "New Haven",
+        "Tweed-New Haven Airport"
+    ],
+    "DAB": [
+        "FLORIDA",
+        "Daytona Beach",
+        "Daytona Beach International Airport"
+    ],
+    "FLL": [
+        "FLORIDA",
+        "Fort Lauderdale",
+        "Fort Lauderdale\u2013Hollywood International Airport"
+    ],
+    "RSW": [
+        "FLORIDA",
+        "Fort Myers",
+        "Southwest Florida International Airport"
+    ],
+    "VPS": [
+        "FLORIDA",
+        "Fort Walton Beach",
+        "Destin\u2013Fort Walton Beach Airport / Eglin Air Force Base"
+    ],
+    "GNV": [
+        "FLORIDA",
+        "Gainesville",
+        "Gainesville Regional Airport"
+    ],
+    "JAX": [
+        "FLORIDA",
+        "Jacksonville",
+        "Jacksonville International Airport"
+    ],
+    "EYW": [
+        "FLORIDA",
+        "Key West",
+        "Key West International Airport"
+    ],
+    "MLB": [
+        "FLORIDA",
+        "Melbourne",
+        "Melbourne Orlando International Airport"
+    ],
+    "MIA": [
+        "FLORIDA",
+        "Miami",
+        "Miami International Airport"
+    ],
+    "MCO": [
+        "FLORIDA",
+        "Orlando",
+        "Orlando International Airport"
+    ],
+    "ECP": [
+        "FLORIDA",
+        "Panama City",
+        "Northwest Florida Beaches International Airport"
+    ],
+    "PNS": [
+        "FLORIDA",
+        "Pensacola",
+        "Pensacola International Airport"
+    ],
+    "PGD": [
+        "FLORIDA",
+        "Punta Gorda",
+        "Punta Gorda Airport"
+    ],
+    "SFB": [
+        "FLORIDA",
+        "Sanford",
+        "Orlando Sanford International Airport"
+    ],
+    "SRQ": [
+        "FLORIDA",
+        "Sarasota",
+        "Sarasota\u2013Bradenton International Airport"
+    ],
+    "PIE": [
+        "FLORIDA",
+        "St. Petersburg",
+        "St. Pete\u2013Clearwater International Airport"
+    ],
+    "TLH": [
+        "FLORIDA",
+        "Tallahassee",
+        "Tallahassee International Airport"
+    ],
+    "TPA": [
+        "FLORIDA",
+        "Tampa",
+        "Tampa International Airport"
+    ],
+    "VRB": [
+        "FLORIDA",
+        "Vero Beach",
+        "Vero Beach Regional Airport"
+    ],
+    "PBI": [
+        "FLORIDA",
+        "West Palm Beach",
+        "Palm Beach International Airport"
+    ],
+    "ABY": [
+        "GEORGIA",
+        "Albany",
+        "Southwest Georgia Regional Airport"
+    ],
+    "ATL": [
+        "GEORGIA",
+        "Atlanta",
+        "Hartsfield\u2013Jackson Atlanta International Airport"
+    ],
+    "AGS": [
+        "GEORGIA",
+        "Augusta",
+        "Augusta Regional Airport (Bush Field)"
+    ],
+    "BQK": [
+        "GEORGIA",
+        "Brunswick",
+        "Brunswick Golden Isles Airport"
+    ],
+    "CSG": [
+        "GEORGIA",
+        "Columbus",
+        "Columbus Airport"
+    ],
+    "MCN": [
+        "GEORGIA",
+        "Macon",
+        "Middle Georgia Regional Airport"
+    ],
+    "SAV": [
+        "GEORGIA",
+        "Savannah",
+        "Savannah/Hilton Head International Airport"
+    ],
+    "VLD": [
+        "GEORGIA",
+        "Valdosta",
+        "Valdosta Regional Airport"
+    ],
+    "ITO": [
+        "HAWAII",
+        "Hilo, Hawaii",
+        "Hilo International Airport"
+    ],
+    "HNL": [
+        "HAWAII",
+        "Honolulu, Oahu",
+        "Daniel K. Inouye International Airport"
+    ],
+    "OGG": [
+        "HAWAII",
+        "Kahului, Maui",
+        "Kahului Airport"
+    ],
+    "KOA": [
+        "HAWAII",
+        "Kailua-Kona, Hawaii",
+        "Ellison Onizuka Kona International Airport at Keahole"
+    ],
+    "MKK": [
+        "HAWAII",
+        "Kaunakakai, Molokai",
+        "Molokai Airport (Hoolehua Airport)"
+    ],
+    "LNY": [
+        "HAWAII",
+        "Lanai City, Lanai",
+        "Lanai Airport"
+    ],
+    "LIH": [
+        "HAWAII",
+        "Lihue, Kauai",
+        "Lihue Airport"
+    ],
+    "BOI": [
+        "IDAHO",
+        "Boise",
+        "Boise Airport (Boise Air Terminal) (Gowen Field)"
+    ],
+    "SUN": [
+        "IDAHO",
+        "Hailey / Sun Valley",
+        "Friedman Memorial Airport"
+    ],
+    "IDA": [
+        "IDAHO",
+        "Idaho Falls",
+        "Idaho Falls Regional Airport (Fanning Field)"
+    ],
+    "LWS": [
+        "IDAHO",
+        "Lewiston",
+        "Lewiston\u2013Nez Perce County Airport"
+    ],
+    "PIH": [
+        "IDAHO",
+        "Pocatello",
+        "Pocatello Regional Airport"
+    ],
+    "TWF": [
+        "IDAHO",
+        "Twin Falls",
+        "Magic Valley Regional Airport (Joslin Field)"
+    ],
+    "BLV": [
+        "ILLINOIS",
+        "Belleville",
+        "MidAmerica St. Louis Airport / Scott Air Force Base"
+    ],
+    "BMI": [
+        "ILLINOIS",
+        "Bloomington / Normal",
+        "Central Illinois Regional Airport at Bloomington-Normal"
+    ],
+    "CMI": [
+        "ILLINOIS",
+        "Champaign / Urbana / Savoy",
+        "University of Illinois - Willard Airport"
+    ],
+    "MDW": [
+        "ILLINOIS",
+        "Chicago",
+        "Chicago Midway International Airport"
+    ],
+    "ORD": [
+        "ILLINOIS",
+        "Chicago",
+        "Chicago O'Hare International Airport"
+    ],
+    "MWA": [
+        "ILLINOIS",
+        "Marion",
+        "Veterans Airport of Southern Illinois (Williamson County Regional Airport)"
+    ],
+    "MLI": [
+        "ILLINOIS",
+        "Moline",
+        "Quad City International Airport"
+    ],
+    "PIA": [
+        "ILLINOIS",
+        "Peoria",
+        "General Downing-Peoria International Airport"
+    ],
+    "UIN": [
+        "ILLINOIS",
+        "Quincy",
+        "Quincy Regional Airport (Baldwin Field)"
+    ],
+    "RFD": [
+        "ILLINOIS",
+        "Rockford",
+        "Chicago Rockford International Airport (was Northwest Chicagoland Regional Airport at Rockford)"
+    ],
+    "SPI": [
+        "ILLINOIS",
+        "Springfield",
+        "Abraham Lincoln Capital Airport"
+    ],
+    "EVV": [
+        "INDIANA",
+        "Evansville",
+        "Evansville Regional Airport"
+    ],
+    "FWA": [
+        "INDIANA",
+        "Fort Wayne",
+        "Fort Wayne International Airport"
+    ],
+    "IND": [
+        "INDIANA",
+        "Indianapolis",
+        "Indianapolis International Airport"
+    ],
+    "SBN": [
+        "INDIANA",
+        "South Bend",
+        "South Bend International Airport"
+    ],
+    "CID": [
+        "IOWA",
+        "Cedar Rapids",
+        "Eastern Iowa Airport"
+    ],
+    "DSM": [
+        "IOWA",
+        "Des Moines",
+        "Des Moines International Airport"
+    ],
+    "DBQ": [
+        "IOWA",
+        "Dubuque",
+        "Dubuque Regional Airport"
+    ],
+    "SUX": [
+        "IOWA",
+        "Sioux City",
+        "Sioux Gateway Airport (Brig. General Bud Day Field)"
+    ],
+    "ALO": [
+        "IOWA",
+        "Waterloo",
+        "Waterloo Regional Airport"
+    ],
+    "GCK": [
+        "KANSAS",
+        "Garden City",
+        "Garden City Regional Airport"
+    ],
+    "HYS": [
+        "KANSAS",
+        "Hays",
+        "Hays Regional Airport"
+    ],
+    "MHK": [
+        "KANSAS",
+        "Manhattan",
+        "Manhattan Regional Airport"
+    ],
+    "SLN": [
+        "KANSAS",
+        "Salina",
+        "Salina Regional Airport"
+    ],
+    "ICT": [
+        "KANSAS",
+        "Wichita",
+        "Wichita Dwight D. Eisenhower National Airport (was Wichita Mid-Continent Airport)"
+    ],
+    "CVG": [
+        "KENTUCKY",
+        "Cincinnati/Covington",
+        "Cincinnati/Northern Kentucky International Airport"
+    ],
+    "LEX": [
+        "KENTUCKY",
+        "Lexington",
+        "Blue Grass Airport"
+    ],
+    "SDF": [
+        "KENTUCKY",
+        "Louisville",
+        "Louisville International Airport (Standiford Field)"
+    ],
+    "OWB": [
+        "KENTUCKY",
+        "Owensboro",
+        "Owensboro\u2013Daviess County Regional Airport"
+    ],
+    "PAH": [
+        "KENTUCKY",
+        "Paducah",
+        "Barkley Regional Airport"
+    ],
+    "AEX": [
+        "LOUISIANA",
+        "Alexandria",
+        "Alexandria International Airport"
+    ],
+    "BTR": [
+        "LOUISIANA",
+        "Baton Rouge",
+        "Baton Rouge Metropolitan Airport (Ryan Field)"
+    ],
+    "LFT": [
+        "LOUISIANA",
+        "Lafayette",
+        "Lafayette Regional Airport (Paul Fournet Field)"
+    ],
+    "LCH": [
+        "LOUISIANA",
+        "Lake Charles",
+        "Lake Charles Regional Airport"
+    ],
+    "MLU": [
+        "LOUISIANA",
+        "Monroe",
+        "Monroe Regional Airport"
+    ],
+    "MSY": [
+        "LOUISIANA",
+        "New Orleans",
+        "Louis Armstrong New Orleans International Airport"
+    ],
+    "SHV": [
+        "LOUISIANA",
+        "Shreveport",
+        "Shreveport Regional Airport"
+    ],
+    "BGR": [
+        "MAINE",
+        "Bangor",
+        "Bangor International Airport"
+    ],
+    "PWM": [
+        "MAINE",
+        "Portland",
+        "Portland International Jetport"
+    ],
+    "PQI": [
+        "MAINE",
+        "Presque Isle",
+        "Presque Isle International Airport"
+    ],
+    "RKD": [
+        "MAINE",
+        "Rockland",
+        "Knox County Regional Airport"
+    ],
+    "BWI": [
+        "MARYLAND",
+        "Baltimore",
+        "Baltimore/Washington International Airport"
+    ],
+    "HGR": [
+        "MARYLAND",
+        "Hagerstown",
+        "Hagerstown Regional Airport (Richard A. Henson Field)"
+    ],
+    "SBY": [
+        "MARYLAND",
+        "Salisbury",
+        "Salisbury\u2013Ocean City\u2013Wicomico Regional Airport"
+    ],
+    "BED": [
+        "MASSACHUSETTS",
+        "Bedford",
+        "Hanscom Field / Hanscom Air Force Base"
+    ],
+    "BOS": [
+        "MASSACHUSETTS",
+        "Boston",
+        "Gen. Edward Lawrence Logan International Airport"
+    ],
+    "HYA": [
+        "MASSACHUSETTS",
+        "Hyannis",
+        "Cape Cod Gateway Airport (Boardman/Polando Field)"
+    ],
+    "ACK": [
+        "MASSACHUSETTS",
+        "Nantucket",
+        "Nantucket Memorial Airport"
+    ],
+    "PVC": [
+        "MASSACHUSETTS",
+        "Provincetown",
+        "Provincetown Municipal Airport"
+    ],
+    "MVY": [
+        "MASSACHUSETTS",
+        "Vineyard Haven",
+        "Martha's Vineyard Airport"
+    ],
+    "ORH": [
+        "MASSACHUSETTS",
+        "Worcester",
+        "Worcester Regional Airport"
+    ],
+    "APN": [
+        "MICHIGAN",
+        "Alpena",
+        "Alpena County Regional Airport"
+    ],
+    "DTW": [
+        "MICHIGAN",
+        "Detroit",
+        "Detroit Metro Wayne County Airport"
+    ],
+    "ESC": [
+        "MICHIGAN",
+        "Escanaba",
+        "Delta County Airport"
+    ],
+    "FNT": [
+        "MICHIGAN",
+        "Flint",
+        "Bishop International Airport"
+    ],
+    "GRR": [
+        "MICHIGAN",
+        "Grand Rapids",
+        "Gerald R. Ford International Airport"
+    ],
+    "CMX": [
+        "MICHIGAN",
+        "Hancock",
+        "Houghton County Memorial Airport"
+    ],
+    "IMT": [
+        "MICHIGAN",
+        "Iron Mountain",
+        "Ford Airport"
+    ],
+    "AZO": [
+        "MICHIGAN",
+        "Kalamazoo",
+        "Kalamazoo/Battle Creek International Airport"
+    ],
+    "LAN": [
+        "MICHIGAN",
+        "Lansing",
+        "Capital Region International Airport (was Lansing Capital City)"
+    ],
+    "MQT": [
+        "MICHIGAN",
+        "Marquette",
+        "Sawyer International Airport"
+    ],
+    "MKG": [
+        "MICHIGAN",
+        "Muskegon",
+        "Muskegon County Airport"
+    ],
+    "PLN": [
+        "MICHIGAN",
+        "Pellston",
+        "Pellston Regional/Emmet County Airport"
+    ],
+    "MBS": [
+        "MICHIGAN",
+        "Saginaw",
+        "MBS International Airport"
+    ],
+    "CIU": [
+        "MICHIGAN",
+        "Sault Ste. Marie",
+        "Chippewa County International Airport"
+    ],
+    "TVC": [
+        "MICHIGAN",
+        "Traverse City",
+        "Cherry Capital Airport (was Cherry County Airpark)"
+    ],
+    "BJI": [
+        "MINNESOTA",
+        "Bemidji",
+        "Bemidji Regional Airport"
+    ],
+    "BRD": [
+        "MINNESOTA",
+        "Brainerd",
+        "Brainerd Lakes Regional Airport"
+    ],
+    "DLH": [
+        "MINNESOTA",
+        "Duluth",
+        "Duluth International Airport"
+    ],
+    "HIB": [
+        "MINNESOTA",
+        "Hibbing",
+        "Range Regional Airport (was Chisholm\u2013Hibbing Airport)"
+    ],
+    "INL": [
+        "MINNESOTA",
+        "International Falls",
+        "Falls International Airport (Einarson Field)"
+    ],
+    "MSP": [
+        "MINNESOTA",
+        "Minneapolis-St. Paul",
+        "Minneapolis\u2013St. Paul International/Wold-Chamberlain Airport"
+    ],
+    "RST": [
+        "MINNESOTA",
+        "Rochester",
+        "Rochester International Airport"
+    ],
+    "STC": [
+        "MINNESOTA",
+        "St. Cloud",
+        "St. Cloud Regional Airport"
+    ],
+    "GTR": [
+        "MISSISSIPPI",
+        "Columbus",
+        "Golden Triangle Regional Airport"
+    ],
+    "GPT": [
+        "MISSISSIPPI",
+        "Gulfport / Biloxi",
+        "Gulfport\u2013Biloxi International Airport"
+    ],
+    "JAN": [
+        "MISSISSIPPI",
+        "Jackson",
+        "Jackson\u2013Medgar Wiley Evers International Airport"
+    ],
+    "MEI": [
+        "MISSISSIPPI",
+        "Meridian",
+        "Key Field"
+    ],
+    "TUP": [
+        "MISSISSIPPI",
+        "Tupelo",
+        "Tupelo Regional Airport (C.D. Lemons Field)"
+    ],
+    "COU": [
+        "MISSOURI",
+        "Columbia",
+        "Columbia Regional Airport"
+    ],
+    "JLN": [
+        "MISSOURI",
+        "Joplin",
+        "Joplin Regional Airport"
+    ],
+    "MCI": [
+        "MISSOURI",
+        "Kansas City",
+        "Kansas City International Airport (was Mid-Continent International)"
+    ],
+    "STL": [
+        "MISSOURI",
+        "St. Louis",
+        "St. Louis Lambert International Airport"
+    ],
+    "SGF": [
+        "MISSOURI",
+        "Springfield",
+        "Springfield\u2013Branson National Airport"
+    ],
+    "BIL": [
+        "MONTANA",
+        "Billings",
+        "Billings Logan International Airport"
+    ],
+    "BZN": [
+        "MONTANA",
+        "Bozeman",
+        "Bozeman Yellowstone International Airport (was Gallatin Field)"
+    ],
+    "BTM": [
+        "MONTANA",
+        "Butte",
+        "Bert Mooney Airport"
+    ],
+    "GTF": [
+        "MONTANA",
+        "Great Falls",
+        "Great Falls International Airport"
+    ],
+    "HLN": [
+        "MONTANA",
+        "Helena",
+        "Helena Regional Airport"
+    ],
+    "FCA": [
+        "MONTANA",
+        "Kalispell",
+        "Glacier Park International Airport"
+    ],
+    "MSO": [
+        "MONTANA",
+        "Missoula",
+        "Missoula Montana Airport (was Missoula International Airport)"
+    ],
+    "SDY": [
+        "MONTANA",
+        "Sidney",
+        "Sidney-Richland Regional Airport"
+    ],
+    "WYS": [
+        "MONTANA",
+        "West Yellowstone",
+        "Yellowstone Airport"
+    ],
+    "GRI": [
+        "NEBRASKA",
+        "Grand Island",
+        "Central Nebraska Regional Airport"
+    ],
+    "LNK": [
+        "NEBRASKA",
+        "Lincoln",
+        "Lincoln Airport (was Lincoln Municipal)"
+    ],
+    "LBF": [
+        "NEBRASKA",
+        "North Platte",
+        "North Platte Regional Airport (Lee Bird Field)"
+    ],
+    "OMA": [
+        "NEBRASKA",
+        "Omaha",
+        "Eppley Airfield"
+    ],
+    "BFF": [
+        "NEBRASKA",
+        "Scottsbluff",
+        "Western Nebraska Regional Airport (William B. Heilig Field)"
+    ],
+    "BLD": [
+        "NEVADA",
+        "Boulder City",
+        "Boulder City Municipal Airport"
+    ],
+    "EKO": [
+        "NEVADA",
+        "Elko",
+        "Elko Regional Airport (J.C. Harris Field)"
+    ],
+    "LAS": [
+        "NEVADA",
+        "Las Vegas",
+        "Harry Reid International Airport"
+    ],
+    "RNO": [
+        "NEVADA",
+        "Reno",
+        "Reno/Tahoe International Airport"
+    ],
+    "LEB": [
+        "NEW HAMPSHIRE",
+        "Lebanon",
+        "Lebanon Municipal Airport"
+    ],
+    "MHT": [
+        "NEW HAMPSHIRE",
+        "Manchester",
+        "Manchester\u2013Boston Regional Airport"
+    ],
+    "PSM": [
+        "NEW HAMPSHIRE",
+        "Portsmouth",
+        "Portsmouth International Airport at Pease"
+    ],
+    "ACY": [
+        "NEW JERSEY",
+        "Atlantic City",
+        "Atlantic City International Airport"
+    ],
+    "EWR": [
+        "NEW JERSEY",
+        "Newark",
+        "Newark Liberty International Airport"
+    ],
+    "TTN": [
+        "NEW JERSEY",
+        "Trenton",
+        "Trenton Mercer Airport"
+    ],
+    "ABQ": [
+        "NEW MEXICO",
+        "Albuquerque",
+        "Albuquerque International Sunport"
+    ],
+    "HOB": [
+        "NEW MEXICO",
+        "Hobbs",
+        "Lea County Regional Airport"
+    ],
+    "ROW": [
+        "NEW MEXICO",
+        "Roswell",
+        "Roswell Air Center"
+    ],
+    "SAF": [
+        "NEW MEXICO",
+        "Santa Fe",
+        "Santa Fe Municipal Airport"
+    ],
+    "ALB": [
+        "NEW YORK",
+        "Albany",
+        "Albany International Airport"
+    ],
+    "BGM": [
+        "NEW YORK",
+        "Binghamton",
+        "Greater Binghamton Airport (Edwin A. Link Field)"
+    ],
+    "BUF": [
+        "NEW YORK",
+        "Buffalo",
+        "Buffalo Niagara International Airport"
+    ],
+    "ELM": [
+        "NEW YORK",
+        "Elmira / Corning",
+        "Elmira/Corning Regional Airport"
+    ],
+    "ITH": [
+        "NEW YORK",
+        "Ithaca",
+        "Ithaca Tompkins International Airport"
+    ],
+    "JFK": [
+        "NEW YORK",
+        "New York",
+        "John F. Kennedy International Airport (was New York International Airport)"
+    ],
+    "LGA": [
+        "NEW YORK",
+        "New York",
+        "LaGuardia Airport (and Marine Air Terminal)"
+    ],
+    "ISP": [
+        "NEW YORK",
+        "New York / Islip",
+        "Long Island MacArthur Airport"
+    ],
+    "SWF": [
+        "NEW YORK",
+        "Newburgh",
+        "New York Stewart International Airport"
+    ],
+    "IAG": [
+        "NEW YORK",
+        "Niagara Falls",
+        "Niagara Falls International Airport"
+    ],
+    "OGS": [
+        "NEW YORK",
+        "Ogdensburg",
+        "Ogdensburg International Airport"
+    ],
+    "PBG": [
+        "NEW YORK",
+        "Plattsburgh",
+        "Plattsburgh International Airport"
+    ],
+    "ROC": [
+        "NEW YORK",
+        "Rochester",
+        "Frederick Douglass/Greater Rochester International Airport"
+    ],
+    "SYR": [
+        "NEW YORK",
+        "Syracuse",
+        "Syracuse Hancock International Airport"
+    ],
+    "ART": [
+        "NEW YORK",
+        "Watertown",
+        "Watertown International Airport"
+    ],
+    "HPN": [
+        "NEW YORK",
+        "White Plains",
+        "Westchester County Airport"
+    ],
+    "AVL": [
+        "NORTH CAROLINA",
+        "Asheville",
+        "Asheville Regional Airport"
+    ],
+    "CLT": [
+        "NORTH CAROLINA",
+        "Charlotte",
+        "Charlotte Douglas International Airport"
+    ],
+    "USA": [
+        "NORTH CAROLINA",
+        "Concord",
+        "Concord-Padgett Regional Airport"
+    ],
+    "FAY": [
+        "NORTH CAROLINA",
+        "Fayetteville",
+        "Fayetteville Regional Airport (Grannis Field)"
+    ],
+    "GSO": [
+        "NORTH CAROLINA",
+        "Greensboro",
+        "Piedmont Triad International Airport"
+    ],
+    "PGV": [
+        "NORTH CAROLINA",
+        "Greenville",
+        "Pitt\u2013Greenville Airport"
+    ],
+    "OAJ": [
+        "NORTH CAROLINA",
+        "Jacksonville",
+        "Albert J. Ellis Airport"
+    ],
+    "EWN": [
+        "NORTH CAROLINA",
+        "New Bern",
+        "Coastal Carolina Regional Airport (was Craven County Regional)"
+    ],
+    "RDU": [
+        "NORTH CAROLINA",
+        "Raleigh",
+        "Raleigh\u2013Durham International Airport"
+    ],
+    "ILM": [
+        "NORTH CAROLINA",
+        "Wilmington",
+        "Wilmington International Airport"
+    ],
+    "BIS": [
+        "NORTH DAKOTA",
+        "Bismarck",
+        "Bismarck Municipal Airport"
+    ],
+    "DIK": [
+        "NORTH DAKOTA",
+        "Dickinson",
+        "Dickinson Theodore Roosevelt Regional Airport"
+    ],
+    "FAR": [
+        "NORTH DAKOTA",
+        "Fargo",
+        "Hector International Airport"
+    ],
+    "GFK": [
+        "NORTH DAKOTA",
+        "Grand Forks",
+        "Grand Forks International Airport"
+    ],
+    "JMS": [
+        "NORTH DAKOTA",
+        "Jamestown",
+        "Jamestown Regional Airport"
+    ],
+    "MOT": [
+        "NORTH DAKOTA",
+        "Minot",
+        "Minot International Airport"
+    ],
+    "XWA": [
+        "NORTH DAKOTA",
+        "Williston",
+        "Williston Basin International Airport"
+    ],
+    "CAK": [
+        "OHIO",
+        "Akron / Canton",
+        "Akron-Canton Regional Airport"
+    ],
+    "CLE": [
+        "OHIO",
+        "Cleveland",
+        "Cleveland Hopkins International Airport"
+    ],
+    "CMH": [
+        "OHIO",
+        "Columbus",
+        "John Glenn Columbus International Airport"
+    ],
+    "LCK": [
+        "OHIO",
+        "Columbus",
+        "Rickenbacker International Airport"
+    ],
+    "DAY": [
+        "OHIO",
+        "Dayton",
+        "James M. Cox Dayton International Airport"
+    ],
+    "TOL": [
+        "OHIO",
+        "Toledo",
+        "Eugene F. Kranz Toledo Express Airport"
+    ],
+    "LAW": [
+        "OKLAHOMA",
+        "Lawton",
+        "Lawton\u2013Fort Sill Regional Airport"
+    ],
+    "OKC": [
+        "OKLAHOMA",
+        "Oklahoma City",
+        "Will Rogers World Airport"
+    ],
+    "SWO": [
+        "OKLAHOMA",
+        "Stillwater",
+        "Stillwater Regional Airport"
+    ],
+    "TUL": [
+        "OKLAHOMA",
+        "Tulsa",
+        "Tulsa International Airport"
+    ],
+    "EUG": [
+        "OREGON",
+        "Eugene",
+        "Mahlon Sweet Field"
+    ],
+    "MFR": [
+        "OREGON",
+        "Medford",
+        "Rogue Valley International\u2013Medford Airport"
+    ],
+    "OTH": [
+        "OREGON",
+        "North Bend",
+        "Southwest Oregon Regional Airport (was North Bend Municipal)"
+    ],
+    "PDX": [
+        "OREGON",
+        "Portland",
+        "Portland International Airport"
+    ],
+    "RDM": [
+        "OREGON",
+        "Redmond",
+        "Roberts Field"
+    ],
+    "ABE": [
+        "PENNSYLVANIA",
+        "Allentown",
+        "Lehigh Valley International Airport (was Allentown\u2013Bethlehem\u2013Easton International Airport)"
+    ],
+    "ERI": [
+        "PENNSYLVANIA",
+        "Erie",
+        "Erie International Airport (Tom Ridge Field)"
+    ],
+    "MDT": [
+        "PENNSYLVANIA",
+        "Harrisburg",
+        "Harrisburg International Airport"
+    ],
+    "LBE": [
+        "PENNSYLVANIA",
+        "Latrobe",
+        "Arnold Palmer Regional Airport"
+    ],
+    "PHL": [
+        "PENNSYLVANIA",
+        "Philadelphia",
+        "Philadelphia International Airport"
+    ],
+    "PIT": [
+        "PENNSYLVANIA",
+        "Pittsburgh",
+        "Pittsburgh International Airport"
+    ],
+    "SCE": [
+        "PENNSYLVANIA",
+        "State College",
+        "University Park Airport"
+    ],
+    "AVP": [
+        "PENNSYLVANIA",
+        "Wilkes-Barre / Scranton",
+        "Wilkes-Barre/Scranton International Airport"
+    ],
+    "IPT": [
+        "PENNSYLVANIA",
+        "Williamsport",
+        "Williamsport Regional Airport"
+    ],
+    "BID": [
+        "RHODE ISLAND",
+        "Block Island",
+        "Block Island State Airport"
+    ],
+    "PVD": [
+        "RHODE ISLAND",
+        "Providence",
+        "Rhode Island T. F. Green International Airport"
+    ],
+    "WST": [
+        "RHODE ISLAND",
+        "Westerly",
+        "Westerly State Airport"
+    ],
+    "CHS": [
+        "SOUTH CAROLINA",
+        "Charleston",
+        "Charleston International Airport / Charleston AFB"
+    ],
+    "CAE": [
+        "SOUTH CAROLINA",
+        "Columbia",
+        "Columbia Metropolitan Airport"
+    ],
+    "FLO": [
+        "SOUTH CAROLINA",
+        "Florence",
+        "Florence Regional Airport"
+    ],
+    "GSP": [
+        "SOUTH CAROLINA",
+        "Greenville",
+        "Greenville\u2013Spartanburg International Airport (Roger Milliken Field)"
+    ],
+    "HHH": [
+        "SOUTH CAROLINA",
+        "Hilton Head",
+        "Hilton Head Airport"
+    ],
+    "MYR": [
+        "SOUTH CAROLINA",
+        "Myrtle Beach",
+        "Myrtle Beach International Airport"
+    ],
+    "ABR": [
+        "SOUTH DAKOTA",
+        "Aberdeen",
+        "Aberdeen Regional Airport"
+    ],
+    "PIR": [
+        "SOUTH DAKOTA",
+        "Pierre",
+        "Pierre Regional Airport"
+    ],
+    "RAP": [
+        "SOUTH DAKOTA",
+        "Rapid City",
+        "Rapid City Regional Airport"
+    ],
+    "FSD": [
+        "SOUTH DAKOTA",
+        "Sioux Falls",
+        "Joe Foss Field"
+    ],
+    "ATY": [
+        "SOUTH DAKOTA",
+        "Watertown",
+        "Watertown Regional Airport"
+    ],
+    "CHA": [
+        "TENNESSEE",
+        "Chattanooga",
+        "Lovell Field"
+    ],
+    "TYS": [
+        "TENNESSEE",
+        "Knoxville",
+        "McGhee Tyson Airport"
+    ],
+    "MEM": [
+        "TENNESSEE",
+        "Memphis",
+        "Memphis International Airport"
+    ],
+    "BNA": [
+        "TENNESSEE",
+        "Nashville",
+        "Nashville International Airport (Berry Field)"
+    ],
+    "TRI": [
+        "TENNESSEE",
+        "Tri-Cities",
+        "Tri-Cities Airport"
+    ],
+    "ABI": [
+        "TEXAS",
+        "Abilene",
+        "Abilene Regional Airport"
+    ],
+    "AMA": [
+        "TEXAS",
+        "Amarillo",
+        "Rick Husband Amarillo International Airport"
+    ],
+    "AUS": [
+        "TEXAS",
+        "Austin",
+        "Austin\u2013Bergstrom International Airport"
+    ],
+    "BPT": [
+        "TEXAS",
+        "Beaumont",
+        "Jack Brooks Regional Airport (was Southeast Texas Regional)"
+    ],
+    "BRO": [
+        "TEXAS",
+        "Brownsville",
+        "Brownsville/South Padre Island International Airport"
+    ],
+    "CLL": [
+        "TEXAS",
+        "College Station",
+        "Easterwood Field"
+    ],
+    "CRP": [
+        "TEXAS",
+        "Corpus Christi",
+        "Corpus Christi International Airport"
+    ],
+    "DAL": [
+        "TEXAS",
+        "Dallas",
+        "Dallas Love Field"
+    ],
+    "DFW": [
+        "TEXAS",
+        "Dallas",
+        "Dallas Fort Worth International Airport"
+    ],
+    "ELP": [
+        "TEXAS",
+        "El Paso",
+        "El Paso International Airport"
+    ],
+    "HRL": [
+        "TEXAS",
+        "Harlingen",
+        "Valley International Airport"
+    ],
+    "IAH": [
+        "TEXAS",
+        "Houston",
+        "George Bush Intercontinental/Houston Airport"
+    ],
+    "HOU": [
+        "TEXAS",
+        "Houston",
+        "William P. Hobby Airport"
+    ],
+    "GRK": [
+        "TEXAS",
+        "Killeen",
+        "Killeen\u2013Fort Hood Regional Airport / Robert Gray Army Airfield"
+    ],
+    "LRD": [
+        "TEXAS",
+        "Laredo",
+        "Laredo International Airport"
+    ],
+    "GGG": [
+        "TEXAS",
+        "Longview",
+        "East Texas Regional Airport"
+    ],
+    "LBB": [
+        "TEXAS",
+        "Lubbock",
+        "Lubbock Preston Smith International Airport"
+    ],
+    "MFE": [
+        "TEXAS",
+        "McAllen",
+        "McAllen Miller International Airport"
+    ],
+    "MAF": [
+        "TEXAS",
+        "Midland / Odessa",
+        "Midland International Air and Space Port"
+    ],
+    "SJT": [
+        "TEXAS",
+        "San Angelo",
+        "San Angelo Regional Airport (Mathis Field)"
+    ],
+    "SAT": [
+        "TEXAS",
+        "San Antonio",
+        "San Antonio International Airport"
+    ],
+    "TYR": [
+        "TEXAS",
+        "Tyler",
+        "Tyler Pounds Regional Airport"
+    ],
+    "ACT": [
+        "TEXAS",
+        "Waco",
+        "Waco Regional Airport"
+    ],
+    "SPS": [
+        "TEXAS",
+        "Wichita Falls",
+        "Wichita Falls Municipal Airport / Sheppard Air Force Base"
+    ],
+    "CDC": [
+        "UTAH",
+        "Cedar City",
+        "Cedar City Regional Airport"
+    ],
+    "CNY": [
+        "UTAH",
+        "Moab",
+        "Canyonlands Regional Airport"
+    ],
+    "OGD": [
+        "UTAH",
+        "Ogden",
+        "Ogden-Hinckley Airport"
+    ],
+    "PVU": [
+        "UTAH",
+        "Provo",
+        "Provo Municipal Airport"
+    ],
+    "SGU": [
+        "UTAH",
+        "St. George",
+        "St. George Regional Airport"
+    ],
+    "SLC": [
+        "UTAH",
+        "Salt Lake City",
+        "Salt Lake City International Airport"
+    ],
+    "VEL": [
+        "UTAH",
+        "Vernal",
+        "Vernal Regional Airport (was Vernal-Uintah Co. Airport)"
+    ],
+    "BTV": [
+        "VERMONT",
+        "Burlington",
+        "Burlington International Airport"
+    ],
+    "CHO": [
+        "VIRGINIA",
+        "Charlottesville",
+        "Charlottesville\u2013Albemarle Airport"
+    ],
+    "LYH": [
+        "VIRGINIA",
+        "Lynchburg",
+        "Lynchburg Regional Airport (Preston Glenn Field)"
+    ],
+    "PHF": [
+        "VIRGINIA",
+        "Newport News",
+        "Newport News/Williamsburg International Airport (Patrick Henry Field)"
+    ],
+    "ORF": [
+        "VIRGINIA",
+        "Norfolk",
+        "Norfolk International Airport"
+    ],
+    "RIC": [
+        "VIRGINIA",
+        "Richmond",
+        "Richmond International Airport (Byrd Field)"
+    ],
+    "ROA": [
+        "VIRGINIA",
+        "Roanoke",
+        "Roanoke\u2013Blacksburg Regional Airport (Woodrum Field)"
+    ],
+    "SHD": [
+        "VIRGINIA",
+        "Staunton / Waynesboro / Harrisonburg",
+        "Shenandoah Valley Regional Airport"
+    ],
+    "DCA": [
+        "VIRGINIA",
+        "Washington, D.C. / Arlington",
+        "Ronald Reagan Washington National Airport"
+    ],
+    "IAD": [
+        "VIRGINIA",
+        "Washington, D.C. / Dulles / Chantilly",
+        "Washington Dulles International Airport"
+    ],
+    "BLI": [
+        "WASHINGTON",
+        "Bellingham",
+        "Bellingham International Airport"
+    ],
+    "ESD": [
+        "WASHINGTON",
+        "Eastsound",
+        "Orcas Island Airport"
+    ],
+    "FRD": [
+        "WASHINGTON",
+        "Friday Harbor",
+        "Friday Harbor Airport"
+    ],
+    "PSC": [
+        "WASHINGTON",
+        "Pasco",
+        "Tri-Cities Airport"
+    ],
+    "PUW": [
+        "WASHINGTON",
+        "Pullman / Moscow, Idaho",
+        "Pullman\u2013Moscow Regional Airport"
+    ],
+    "BFI": [
+        "WASHINGTON",
+        "Seattle",
+        "King County International Airport (Boeing Field)"
+    ],
+    "SEA": [
+        "WASHINGTON",
+        "Seattle / Tacoma (SeaTac)",
+        "Seattle\u2013Tacoma International Airport"
+    ],
+    "GEG": [
+        "WASHINGTON",
+        "Spokane",
+        "Spokane International Airport (Geiger Field)"
+    ],
+    "ALW": [
+        "WASHINGTON",
+        "Walla Walla",
+        "Walla Walla Regional Airport"
+    ],
+    "EAT": [
+        "WASHINGTON",
+        "Wenatchee",
+        "Pangborn Memorial Airport"
+    ],
+    "YKM": [
+        "WASHINGTON",
+        "Yakima",
+        "Yakima Air Terminal (McAllister Field)"
+    ],
+    "CRW": [
+        "WEST VIRGINIA",
+        "Charleston",
+        "Yeager Airport"
+    ],
+    "CKB": [
+        "WEST VIRGINIA",
+        "Clarksburg",
+        "North Central West Virginia Airport (was Harrison-Marion Regional)"
+    ],
+    "HTS": [
+        "WEST VIRGINIA",
+        "Huntington",
+        "Tri-State Airport (Milton J. Ferguson Field)"
+    ],
+    "LWB": [
+        "WEST VIRGINIA",
+        "Lewisburg",
+        "Greenbrier Valley Airport"
+    ],
+    "ATW": [
+        "WISCONSIN",
+        "Appleton",
+        "Appleton International Airport"
+    ],
+    "EAU": [
+        "WISCONSIN",
+        "Eau Claire",
+        "Chippewa Valley Regional Airport"
+    ],
+    "GRB": [
+        "WISCONSIN",
+        "Green Bay",
+        "Green Bay\u2013Austin Straubel International Airport"
+    ],
+    "LSE": [
+        "WISCONSIN",
+        "La Crosse",
+        "La Crosse Regional Airport"
+    ],
+    "MSN": [
+        "WISCONSIN",
+        "Madison",
+        "Dane County Regional Airport (Truax Field)"
+    ],
+    "MKE": [
+        "WISCONSIN",
+        "Milwaukee",
+        "Milwaukee Mitchell International Airport"
+    ],
+    "CWA": [
+        "WISCONSIN",
+        "Mosinee",
+        "Central Wisconsin Airport"
+    ],
+    "RHI": [
+        "WISCONSIN",
+        "Rhinelander",
+        "Rhinelander\u2013Oneida County Airport"
+    ],
+    "CPR": [
+        "WYOMING",
+        "Casper",
+        "Casper\u2013Natrona County International Airport"
+    ],
+    "COD": [
+        "WYOMING",
+        "Cody",
+        "Yellowstone Regional Airport"
+    ],
+    "GCC": [
+        "WYOMING",
+        "Gillette",
+        "Gillette\u2013Campbell County Airport"
+    ],
+    "JAC": [
+        "WYOMING",
+        "Jackson",
+        "Jackson Hole Airport"
+    ],
+    "LAR": [
+        "WYOMING",
+        "Laramie",
+        "Laramie Regional Airport"
+    ],
+    "RIW": [
+        "WYOMING",
+        "Riverton",
+        "Central Wyoming Regional Airport (was Riverton Regional)"
+    ],
+    "RKS": [
+        "WYOMING",
+        "Rock Springs",
+        "Southwest Wyoming Regional Airport (Rock Springs\u2013Sweetwater County Airport)"
+    ],
+    "SHR": [
+        "WYOMING",
+        "Sheridan",
+        "Sheridan County Airport"
+    ],
+    "PPG": [
+        "AMERICAN SAMOA",
+        "Pago Pago, Tutuila",
+        "Pago Pago International Airport"
+    ],
+    "GUM": [
+        "GUAM",
+        "Agana / Tamuning",
+        "Antonio B. Won Pat International Airport"
+    ],
+    "SPN": [
+        "NORTHERN MARIANAS",
+        "Obyan, Saipan Island",
+        "Saipan International Airport (Francisco C. Ada)"
+    ],
+    "ROP": [
+        "NORTHERN MARIANAS",
+        "Rota Island",
+        "Rota International Airport"
+    ],
+    "TIQ": [
+        "NORTHERN MARIANAS",
+        "Tinian Island",
+        "Tinian International Airport (West Tinian)"
+    ],
+    "BQN": [
+        "PUERTO RICO",
+        "Aguadilla",
+        "Rafael Hern\u00e1ndez Airport"
+    ],
+    "NRR": [
+        "PUERTO RICO",
+        "Ceiba",
+        "Jos\u00e9 Aponte de la Torre Airport"
+    ],
+    "CPX": [
+        "PUERTO RICO",
+        "Culebra",
+        "Benjam\u00edn Rivera Noriega Airport"
+    ],
+    "PSE": [
+        "PUERTO RICO",
+        "Ponce",
+        "Mercedita Airport"
+    ],
+    "SIG": [
+        "PUERTO RICO",
+        "San Juan",
+        "Fernando Luis Ribas Dominicci Airport (Isla Grande Airport)"
+    ],
+    "SJU": [
+        "PUERTO RICO",
+        "San Juan / Carolina",
+        "Luis Mu\u00f1oz Mar\u00edn International Airport"
+    ],
+    "VQS": [
+        "PUERTO RICO",
+        "Vieques",
+        "Antonio Rivera Rodr\u00edguez Airport"
+    ],
+    "STT": [
+        "U.S. VIRGIN ISLANDS",
+        "Charlotte Amalie, St. Thomas",
+        "Cyril E. King Airport"
+    ],
+    "STX": [
+        "U.S. VIRGIN ISLANDS",
+        "Christiansted, St. Croix",
+        "Henry E. Rohlsen Airport"
+    ]
+}
