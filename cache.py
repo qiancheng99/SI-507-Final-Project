@@ -5,6 +5,10 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+"""
+This file is used to generate 3 cahce files: test.json, airport_dict.json and airlines_us.json
+"""
+
 if not os.path.exists('test.json'):
 	url = "https://travelpayouts-travelpayouts-flight-data-v1.p.rapidapi.com/data/en-GB/airlines.json"
 

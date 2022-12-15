@@ -9,6 +9,13 @@ import matplotlib.pyplot as plt
 # from IPython.display import Image
 
 def draw_network(plot=True):
+    """
+    Return a network graph of airports in the US. Vertices are airports 
+    and edges represents the flight between airports.
+    
+    Parameter:
+        plot: whether to plot resulting graph
+    """
     f = open('airlines_us.json')
     data = json.load(f)
     edges=[]
@@ -16,16 +23,10 @@ def draw_network(plot=True):
         for des in data[ori][-1].keys():
             if [des,ori] in edges:continue
             edges.append([ori,des])
-#     print(len(edges))
     edges=np.asarray(edges)
     g = nx.from_edgelist(edges)
     sg = next((g.subgraph(c) for c in nx.connected_components(g)))
     if plot:
-#         fig, ax = plt.subplots(1, 1, figsize=(100,100))
-#         nx.draw_networkx(sg, ax=ax, node_size=333,
-#                          font_size=30, alpha=.5,
-#                          width=1.2,node_color='red',font_color='blue')
-#         ax.set_axis_off()
         fig, ax = plt.subplots(1, 1, figsize=(100,100))
         nx.draw_networkx(sg, ax=ax, node_size=10,
                          font_size=10, alpha=.5,
@@ -36,6 +37,14 @@ def draw_network(plot=True):
     return edges, sg
 
 def draw_map():
+    """
+    Return a network graph of airports on the map of the US. Vertices are airports and edges represents the flight between airports.
+    The vertices' positions on map are their real positions in the US. The color of the vertex represents the altitude of the aiport.
+    The size of the node represents the degree of the airports. This means how many neighbors are connected to this airport directly.
+    
+    Parameter:
+        None
+    """
     edges,sg=draw_network(False)
     f = open('airport_dict.json')
     airport_dict = json.load(f)
@@ -82,6 +91,15 @@ def draw_map():
     plt.show()
     
 def draw_line(trace):
+    """
+    Return a map graph with airports in the flight route on the map of the US. Vertices are airports in the route and 
+    edges represents the flight between airports. 
+    
+    Parameter:
+        trace: a list of airports representing the flight route. For example: ["BHM", "DTW", "SEA"] represents the route from BHM to DTW,
+               then from DTW to SEA.
+    """
+    
     edges=[]
     for i in range(len(trace)-1):
         edges.append([trace[i],trace[i+1]])
@@ -101,8 +119,7 @@ def draw_line(trace):
         names=names,
         index_col=4,
         na_values='\\N')
-    # airports_us = airports[(airports['country'] =='United States') | (
-    #                         airports['country'] =="Puerto Rico")]
+
     airports_us = airports
     unique_index = set(airports_us.index)
     unique_index.remove(np.nan)
@@ -111,8 +128,7 @@ def draw_line(trace):
     pos={}
     for loc in trace:
         pos[loc]=(airports_us.to_dict('index')[loc]['lon'],airports_us.to_dict('index')[loc]['lat'])
-#     pos[des]=(airports_us.to_dict('index')[des]['lon'],airports_us.to_dict('index')[des]['lat'])
-    
+
     deg = nx.degree(sg)
     sizes = [5 * deg[iata] for iata in sg.nodes]
     altitude = airports_us['alt']

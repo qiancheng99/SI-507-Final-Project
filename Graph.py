@@ -4,13 +4,27 @@ import requests
 import webbrowser
 
 class Vertex:
-  def __init__(self, key,city=None,state=None,airport=None):
+  """
+  This is a class for vertex in the graph.
+  """
+  def __init__(self, key, city=None, state=None, airport=None):
+    """
+    The constructor of Vertex class.
+    Parameters:
+        key: the key of the vertex, IATA code of the airport
+        city: name of the city where the airport in 
+        state: name of the state where the airport in
+        airport: the full name of the key airport
+    """
     self.id = key
     self.connectedTo = {}
     self.city=city
     self.state=state
     self.airport=airport
   def addNeighbor(self, nbr, weight=0):
+    """
+    Add a neighbour bgr to the current key vertex with weight.
+    """
     self.connectedTo[nbr] = weight
   def getId(self):
     return self.id
@@ -18,15 +32,23 @@ class Vertex:
     return self.connectedTo[nbr]
   def getConnections(self):
     return self.connectedTo.keys()
-  # def __str__(self):
-  #   return str(self.id) + ' is connected to ' + str([self.connectedTo[x] for x in self.connectedTo])
+
 
 class Graph:
+    """
+    This is the class for a graph data structure.
+    """
     def __init__(self):
+        """
+        The constructor of Graph class.
+        """
         self.vertList = {}
         self.numVertices = 0
 
-    def addVertex(self,key, city=None,state=None,airport=None):
+    def addVertex(self, key, city=None, state=None, airport=None):
+        """
+        Add a vertex of Vertex class to the graph.
+        """
         self.numVertices = self.numVertices + 1
         newVertex = Vertex(key,city,state,airport)
         self.vertList[key] = newVertex
@@ -41,12 +63,18 @@ class Graph:
     def __contains__(self,n):
         return n in self.vertList
 
-    def addEdge(self,f,t,weight=0):
+    def addEdge(self, f, t, weight=0):
+        """
+        Connect 2 vertices f and t in the graph with an edge.
+        Parameters:
+            f: the starting vertex
+            t: the end vertex
+            weight: the weight of the edge
+        """
         if f not in self.vertList:
             nv = self.addVertex(f)
         if t not in self.vertList:
             nv = self.addVertex(t)
-        # print(str(self.vertList[t]))
         self.vertList[f].addNeighbor(self.vertList[t], weight)
 
     def getVertices(self):
@@ -71,11 +99,22 @@ def construct_graph():
     return graph
 
 def read_data():
+    """
+    Read the file: airlines_us.json
+    Return: data containing the json file
+    """
     f = open('airlines_us.json')
     data = json.load(f)
     return data
 
 def shortest_path(origin, destination):
+    """
+    Print one shortest from origin to the destination
+    Parameters:
+        origin: departure airport's IATA code
+        destination: arrival airport's IATA code
+    """
+    
     graph = construct_graph()
     while not graph.__contains__(origin):
         print("Origin you entered is not valid. Please enter again.")    
@@ -108,18 +147,22 @@ def shortest_path(origin, destination):
                     tmp.append(node)
         queue = tmp
 
-origin=input("Input the origin: ")
-destination=input("Input the destination: ")
+"""
+Main function of the project. Deal with the inputs and the display options.
+"""
+print("Welcome to my flight search project! \nYou can enter the IATA codes of the departure and arrival aiports of your interests. For example, DTW and SFO. \nThen you will be shown the shortest path between these 2 airports and more advanced display options!\n ")
+origin=input("Input the IATA code of the origin: ")
+destination=input("Input the IATA code of the destination: ")
 path, track = shortest_path(origin, destination)
-print("The shortest path between "+origin+" and "+destination+" is "+str(path))
+print("\nThe shortest path between "+origin+" and "+destination+" is "+str(path))
 for i in range(len(track)-1):
     print(track[i]+" ------> "+track[i+1])
 
-print("Enter 1 if you want to see the network plot of the airports.")
+print("\nEnter 1 if you want to see the network plot of the airports.")
 print("Enter 2 if you want to see the flight routes on map. ")
 print("Enter 3 if you want to see the route from origin to destination.")
-print("Enter 4 detailed flight infomation from origin to destination on website.")
-print("Enter 5 to exit.")
+print("Enter 4 for detailed flight information from origin to destination on website.")
+print("Enter 5 to exit.\n")
 option = input("Enter the option: ")
 
 while int(option) != 5:
