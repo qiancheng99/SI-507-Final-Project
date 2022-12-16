@@ -107,7 +107,7 @@ def read_data():
     data = json.load(f)
     return data
 
-def shortest_path(origin, destination):
+def shortest_path():
     """
     Print one shortest from origin to the destination
     Parameters:
@@ -116,9 +116,13 @@ def shortest_path(origin, destination):
     """
     
     graph = construct_graph()
+    
+    origin=input("Input the IATA code of the origin: ")
     while not graph.__contains__(origin):
         print("Origin you entered is not valid. Please enter again.")    
         origin=input("Input the origin: ")
+        
+    destination=input("Input the IATA code of the destination: ")
     while not graph.__contains__(destination):
         print("Destination you entered is not valid. Please enter again.")  
         destination=input("Input the destination: ")
@@ -136,7 +140,7 @@ def shortest_path(origin, destination):
                 while location!=origin:
                     track.append(tmp_dict[location])
                     location=tmp_dict[location]
-                return (path,track[::-1])
+                return (path,track[::-1], origin, destination)
             else:
                 for node in graph.getVertex(location).getConnections():
                     node=node.getId()
@@ -151,9 +155,8 @@ def shortest_path(origin, destination):
 Main function of the project. Deal with the inputs and the display options.
 """
 print("Welcome to my flight search project! \nYou can enter the IATA codes of the departure and arrival aiports of your interests. For example, DTW and SFO. \nThen you will be shown the shortest path between these 2 airports and more advanced display options!\n ")
-origin=input("Input the IATA code of the origin: ")
-destination=input("Input the IATA code of the destination: ")
-path, track = shortest_path(origin, destination)
+
+path, track, origin, destination = shortest_path()
 print("\nThe shortest path between "+origin+" and "+destination+" is "+str(path))
 for i in range(len(track)-1):
     print(track[i]+" ------> "+track[i+1])
@@ -173,7 +176,7 @@ while int(option) != 5:
     elif int(option) == 3:
         map.draw_line(track)
     elif int(option) == 4:
-        url = "https://www.kayak.com/flights/"+origin+"-"+destination+"/2023-01-04?sort=bestflight_a&fs=airlines=-O2;stops=0"
+        url = "https://www.kayak.com/flights/"+origin+"-"+destination+"/2023-01-04?sort=bestflight_a&fs=airlines=-O2"
         print("\nLaunching: " + url + " in web browser...")
         webbrowser.open_new_tab(url)
     else: break
